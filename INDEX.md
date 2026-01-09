@@ -29,13 +29,7 @@ Renowned 20th-century Urdu poet and intellectual.
 | Mujh Se Pehli Si Mohabbat | Ishq (Love) | [ghazals/ishq/faiz-mujh-se-pehli-si.md](ghazals/ishq/faiz-mujh-se-pehli-si.md) |
 | Hum Dekhenge | Falsafa (Philosophy) | [ghazals/falsafa/faiz-hum-dekhenge.md](ghazals/falsafa/faiz-hum-dekhenge.md) |
 
-### Gulzar (गुलज़ार)
-Contemporary poet, lyricist, and filmmaker.
 
-| Title/First Line | Theme | File |
-|-----------------|-------|------|
-| Ek Ladki Ko Dekha | Ishq (Love) | [ghazals/ishq/gulzar-ek-ladki.md](ghazals/ishq/gulzar-ek-ladki.md) |
-| Raat Bhar Duaa Maangi | Dard (Pain) | [ghazals/dard/gulzar-raat-bhar.md](ghazals/dard/gulzar-raat-bhar.md) |
 
 ### Ahmad Faraz (अहमद फ़राज़)
 Pakistani Urdu poet known for romantic poetry.
@@ -57,7 +51,6 @@ Modern Urdu poet known for existential themes.
 | Title/First Line | Theme | File |
 |-----------------|-------|------|
 | Gulon Mein Rang Bhare | Dard (Pain) | [ghazals/dard/jaun-gulon-mein-rang.md](ghazals/dard/jaun-gulon-mein-rang.md) |
-| Mohabbat Karne Wale | Falsafa (Philosophy) | [ghazals/falsafa/jaun-mohabbat-karne-wale.md](ghazals/falsafa/jaun-mohabbat-karne-wale.md) |
 
 ---
 
@@ -66,7 +59,6 @@ Modern Urdu poet known for existential themes.
 ### Ishq (Love - Amor)
 - Dil Hi To Hai - Ghalib
 - Mujh Se Pehli Si Mohabbat - Faiz
-- Ek Ladki Ko Dekha - Gulzar
 - Ranjish Hi Sahi - Faraz
 - Aaj Jaane Ki Zid Na Karo - Firaq
 
@@ -77,7 +69,6 @@ Modern Urdu poet known for existential themes.
 - (To be added)
 
 ### Dard (Pain/Sorrow - Dolor)
-- Raat Bhar Duaa Maangi - Gulzar
 - Gulon Mein Rang Bhare - Jaun Elia
 
 ### Khushi (Happiness - Felicidad)
@@ -85,7 +76,6 @@ Modern Urdu poet known for existential themes.
 
 ### Falsafa (Philosophy - Filosofía)
 - Hum Dekhenge - Faiz
-- Mohabbat Karne Wale - Jaun Elia
 
 ### Hasrat (Desire/Longing - Anhelo)
 - Hazaaron Khwaishein Aisi - Ghalib

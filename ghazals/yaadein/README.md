@@ -15,7 +15,7 @@ Nostalgia and reminiscence play an important role in Urdu poetry. These ghazals 
 - **Yaad** (याद): Memory and remembrance
 - **Guzeeshta** (गुज़श्ता): The past
 - **Kal** (कल): Yesterday/tomorrow
-- **Nostaalgia** (नोस्टैल्जिया): Nostalgia
+- **Nostalgia** (नोस्टैल्जिया): Nostalgia
 - **Baatein** (बातें): Conversations and moments
 - **Lamhe** (लम्हे): Moments in time
 
